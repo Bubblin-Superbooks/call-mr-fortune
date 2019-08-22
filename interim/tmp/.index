@@ -1,0 +1,14 @@
+{
+  "0": "<li><a class = \"page\" href=\"9\">Case I</a> <span class=\"flex\">9</span> </li>",
+  "1": "<li><a class = \"page\" href=\"60\">The Sleeping Companion</a> <span class=\"flex\">60</span> </li>",
+  "2": "<li><a class = \"page\" href=\"60\">Case Ii</a> <span class=\"flex\">60</span> </li>",
+  "3": "<li><a class = \"page\" href=\"115\">The Nice Girl</a> <span class=\"flex\">115</span> </li>",
+  "4": "<li><a class = \"page\" href=\"115\">Case Iii</a> <span class=\"flex\">115</span> </li>",
+  "5": "<li><a class = \"page\" href=\"167\">The Efficient Assassin</a> <span class=\"flex\">167</span> </li>",
+  "6": "<li><a class = \"page\" href=\"167\">Case Iv</a> <span class=\"flex\">167</span> </li>",
+  "7": "<li><a class = \"page\" href=\"217\">The Hottentot Venus</a> <span class=\"flex\">217</span> </li>",
+  "8": "<li><a class = \"page\" href=\"217\">Case V</a> <span class=\"flex\">217</span> </li>",
+  "9": "<li><a class = \"page\" href=\"269\">The Business Minister</a> <span class=\"flex\">269</span> </li>",
+  "10": "<li><a class = \"page\" href=\"269\">Case Vi</a> <span class=\"flex\">269</span> </li>",
+  "11": "<li><a class = \"page\" href=\"379\">The End</a> <span class=\"flex\">379</span> </li>"
+}
